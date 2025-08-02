@@ -1,4 +1,4 @@
-Meet SUKUNA V1.0 – The Ultimate WhatsApp Bot Companion!
+Meet MINATO-MD – The Ultimate WhatsApp Bot Companion!
 Unleash 24/7 automation, smart tools, and pure fun — all from your WhatsApp!
 
 Top Features:
@@ -25,4 +25,4 @@ Group Tools – Moderation, announcements, and more!
 Command Prefix: $
 Example: $help, $quote, $joke, $weather Lagos
 
-> “Let SUKUNA V1.0 handle the work, so you can focus on the fun.”
+> “Let MINATO-MD handle the work, so you can focus on the fun.”
